@@ -25,7 +25,7 @@ SECRET_KEY = 'kzyfk(zln_znx($mesbb-bgwc_7b(7086m9jhzo^#g8xnrf0jw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://dineshawesomeapp.herokuapp.com/']
+ALLOWED_HOSTS = ['dineshawesomeapp.herokuapp.com']
 
 
 # Application definition
